@@ -1,0 +1,6 @@
+23-08-26
+Specced AXI4-Lite + UVM Project, 32 Bit Data/Addr
+
+8 plain R/W registers
+
+RTL + TB first, then UVM
