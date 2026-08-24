@@ -4,3 +4,8 @@ Specced AXI4-Lite + UVM Project, 32 Bit Data/Addr
 8 plain R/W registers
 
 RTL + TB first, then UVM
+
+24-08-26
+Wrote AXI4-Lite RTL
+
+Minimal test-bench passed, testing reset, single write and single read.
