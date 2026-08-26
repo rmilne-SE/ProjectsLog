@@ -9,3 +9,8 @@ RTL + TB first, then UVM
 Wrote AXI4-Lite RTL
 
 Minimal test-bench passed, testing reset, single write and single read.
+
+26-08-26
+Expanded test bench, AW before W, W before AW, WSTRB making, SLVERR (read + write), and back to back writes.
+
+Began writing UVM, interface and sequence item done.
