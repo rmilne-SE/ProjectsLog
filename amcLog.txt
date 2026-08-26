@@ -6,3 +6,12 @@ Ran pre semester feasibility test on quantisation risk. Trained small CNN, 2 Con
 Reran at 50 epochs for better trained baseline. Float32 improved to 48.20% static quantisation grew to 2.42pp.
 
 Conclusion quantisation is not projects failure point.
+
+26-08-26
+Added per-SNR accuracy breakdown to the feasibility script (tracks samples by SNR alongside modulation labels). 
+
+Ran float32 vs. static-quantised comparison across the full -20dB to +18dB range
+
+Quantisation tracked the float32 accuracy closely at every SNR band, no disproportionate degradation anywhere.
+
+Wrote up report for project spec for semester 1 start.
