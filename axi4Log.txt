@@ -14,3 +14,8 @@ Minimal test-bench passed, testing reset, single write and single read.
 Expanded test bench, AW before W, W before AW, WSTRB making, SLVERR (read + write), and back to back writes.
 
 Began writing UVM, interface and sequence item done.
+
+01-09-26
+No access to XSIM machine today.
+
+Mainly repo cleanup and comments today.
