@@ -15,3 +15,8 @@ Ran float32 vs. static-quantised comparison across the full -20dB to +18dB range
 Quantisation tracked the float32 accuracy closely at every SNR band, no disproportionate degradation anywhere.
 
 Wrote up report for project spec for semester 1 start.
+
+04-09-2026
+Single MAC unit RTL done.
+
+Worked with Claude to write cocotb python test bench for module.
