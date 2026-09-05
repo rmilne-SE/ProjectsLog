@@ -20,3 +20,8 @@ Wrote up report for project spec for semester 1 start.
 Single MAC unit RTL done.
 
 Worked with Claude to write cocotb python test bench for module.
+
+05-09-2026
+Tested MAC with dot products of randomised vectors, checked per cycle and final value.
+
+Using Claude to drive verification with new CocoTB and Python Golden Model setup.
