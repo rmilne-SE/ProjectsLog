@@ -25,3 +25,8 @@ Worked with Claude to write cocotb python test bench for module.
 Tested MAC with dot products of randomised vectors, checked per cycle and final value.
 
 Using Claude to drive verification with new CocoTB and Python Golden Model setup.
+
+
+Added second RTL file, mac_array.sv, allows for parallel matrix multiplications.
+
+Split testing infrastructure, Makefiles and python files.
