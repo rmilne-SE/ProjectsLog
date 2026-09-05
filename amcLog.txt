@@ -34,4 +34,4 @@ Bias and ReLU unit designed and tested, simple combinational modules.
 
 Buffer designed and tested, single module, will instantiate twice to create input and weight buffer for now to keep simple. Claude driven verification with CocoTB
 
-Claude gen full RTL FSM controller, and verified, will review, rewrite and re verify, in latter sessions, wanted to see full data-that execution today even though time constraints.
+Claude gen full RTL FSM controller, and verified, will review, rewrite and re verify, in latter sessions, wanted to see full data-path execution today even though time constraints.
